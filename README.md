@@ -61,4 +61,4 @@ A free fake JSON API for testing and prototyping.
 
 ---
 
-##🔗 Live Demo: https://sparsh566.github.io/Web_Dev_day_7/
+## 🔗 Live Demo: https://sparsh566.github.io/Web_Dev_day_7/

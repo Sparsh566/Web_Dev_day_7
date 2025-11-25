@@ -57,4 +57,8 @@ A free fake JSON API for testing and prototyping.
 - Add search/filter feature  
 - Add loading spinner  
 - Add user cards UI  
-- Add dark/light theme  
+- Add dark/light theme
+
+---
+
+##🔗 Live Demo: https://sparsh566.github.io/Web_Dev_day_7/
